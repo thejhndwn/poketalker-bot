@@ -1,0 +1,7 @@
+application id(
+    1211900117108400168
+)
+
+public key(
+    77a418bba8c6a56c65f8d239a5c2c28d8f9da375966819a3d0fd72712d197c5b
+)
